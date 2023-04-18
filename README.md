@@ -40,6 +40,8 @@ html: para maquetacion
 realizando el frontend con vistas usando handlebars, y base de datos con pg Postgres, tambien se utilizo el ORM sequelize. de manera de conjuagar toda la tecnoligia para crear una tienda con carro de compras vista de productos vendidos, actualizacion de productos, eliminacion de productos e informacion de productos.
 
 
+https://github.com/pedrinchixx/portafolio-entrega-8.git
+
 
 
 
